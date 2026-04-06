@@ -150,9 +150,14 @@ I train engineering teams and consult on Kubernetes adoption — from fundamenta
 
 ## 📌 Featured Work
 
+
 | Repo | Description |
+
 |------|-------------|
 | [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo) | Live Python demo for enterprise GitHub Copilot training — 6 scenarios, governance, prompt engineering |
+
+| [🌀 k8s-chaos-engineering-scenarios](https://github.com/ashutoshkandpal89/k8s-chaos-engineering-scenarios) | Production-grade Kubernetes chaos engineering framework — 8 scenarios to validate resilience, autoscaling, observability, and recovery |
+
 | More coming soon... | Kubernetes blueprints · MLOps templates · DevSecOps frameworks |
 
 ---
