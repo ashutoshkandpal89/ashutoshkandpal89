@@ -148,17 +148,33 @@ I train engineering teams and consult on Kubernetes adoption — from fundamenta
 
 ---
 
+## 🎓 Enterprise Training Programs
+
+I design and deliver **high-impact corporate workshops** focused on AI-assisted development and cloud-native engineering:
+
+* 🤖 **GitHub Copilot Enterprise Training** — From prompt engineering to governance
+* ☕ **AI-Assisted Java Development** — Production-grade coding with Copilot
+* 🔐 **Secure AI Development (AZ-2007 aligned)** — DevSecOps + compliance
+* ☸️ **Kubernetes & Platform Engineering** — From fundamentals to production
+
+💬 *Trusted by teams building real-world systems — not just demos.*
+
+-----
+
+
 ## 📌 Featured Work
 
 
-| Repo | Description |
+## 📌 Featured Work
 
+| Repo                                                                                                                                   | Description                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [🚀 copilot-java-training-kit](https://github.com/ashutoshkandpal89/copilot-java-training-kit)                                         | Enterprise Java training kit for GitHub Copilot — prompt engineering, agent workflows, legacy refactoring, DevOps & security integration |
+| [🔐 Secure-AI-Assisted-Development-C-Training-Kit](https://github.com/ashutoshkandpal89/Secure-AI-Assisted-Development-C-Training-Kit) | AZ-2007 aligned enterprise training kit — secure AI-assisted development with governance, DevSecOps, and compliance-first architecture   |
+| [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo)                                             | Live Python demo for enterprise GitHub Copilot training — 6 real-world scenarios including debugging, testing, and refactoring           |
+| [🌀 microservice-scenarios](https://github.com/ashutoshkandpal89/microservice-scenarios)                                               | Production-grade chaos engineering scenarios for Kubernetes — validate resilience, autoscaling, and system recovery                      |
+| More coming soon...                                                                                                                    | Kubernetes blueprints · MLOps templates · DevSecOps frameworks                                                                           |
 
-| [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo) | Live Python demo for enterprise GitHub Copilot training — 6 scenarios, governance, prompt engineering |
-
-| [🌀 k8s-chaos-engineering-scenarios](https://github.com/ashutoshkandpal89/k8s-chaos-engineering-scenarios) | Production-grade Kubernetes chaos engineering framework — 8 scenarios to validate resilience, autoscaling, observability, and recovery |
-
-| More coming soon... | Kubernetes blueprints · MLOps templates · DevSecOps frameworks |
 
 ---
 
