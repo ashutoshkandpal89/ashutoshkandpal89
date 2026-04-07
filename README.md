@@ -161,10 +161,6 @@ I design and deliver **high-impact corporate workshops** focused on AI-assisted 
 
 -----
 
-
-## 📌 Featured Work
-
-
 ## 📌 Featured Work
 
 | Repo                                                                                                                                   | Description                                                                                                                              |
