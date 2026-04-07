@@ -161,16 +161,17 @@ I design and deliver **high-impact corporate workshops** focused on AI-assisted 
 
 -----
 
-## 📌 Featured Work
+## 🚀 Featured Work (Enterprise & AI Focus)
 
-| Repo                                                                                                                                   | Description                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [🚀 copilot-java-training-kit](https://github.com/ashutoshkandpal89/copilot-java-training-kit)                                         | Enterprise Java training kit for GitHub Copilot — prompt engineering, agent workflows, legacy refactoring, DevOps & security integration |
-| [🔐 Secure-AI-Assisted-Development-C-Training-Kit](https://github.com/ashutoshkandpal89/Secure-AI-Assisted-Development-C-Training-Kit) | AZ-2007 aligned enterprise training kit — secure AI-assisted development with governance, DevSecOps, and compliance-first architecture   |
-| [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo)                                             | Live Python demo for enterprise GitHub Copilot training — 6 real-world scenarios including debugging, testing, and refactoring           |
-| [🌀 microservice-scenarios](https://github.com/ashutoshkandpal89/microservice-scenarios)                                               | Production-grade chaos engineering scenarios for Kubernetes — validate resilience, autoscaling, and system recovery                      |
-| More coming soon...                                                                                                                    | Kubernetes blueprints · MLOps templates · DevSecOps frameworks                                                                           |
+> 💡 Real-world, production-grade repositories used in corporate trainings and enterprise consulting engagements.
 
+| Repo                                                                                                                                   | Description                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [🚀 copilot-java-training-kit](https://github.com/ashutoshkandpal89/copilot-java-training-kit)                                         | Enterprise-grade Java + GitHub Copilot training kit — prompt engineering, agent workflows, legacy modernization, DevOps & security |
+| [🔐 Secure-AI-Assisted-Development-C-Training-Kit](https://github.com/ashutoshkandpal89/Secure-AI-Assisted-Development-C-Training-Kit) | AZ-2007 aligned secure AI development training — governance, DevSecOps, compliance-first architecture                              |
+| [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo)                                             | Hands-on Python scenarios for enterprise Copilot adoption — debugging, testing, refactoring                                        |
+| [🌀 microservice-scenarios](https://github.com/ashutoshkandpal89/microservice-scenarios)                                               | Chaos engineering scenarios for Kubernetes — resilience, autoscaling, observability validation                                     |
+| More coming soon...                                                                                                                    | Kubernetes blueprints · MLOps templates · DevSecOps frameworks                                                                     |
 
 ---
 
