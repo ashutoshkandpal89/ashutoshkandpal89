@@ -8,12 +8,13 @@
 
 # Ashutosh Kandpal
 
-### Fractional CTO · KubeStronaut · Cloud Architect · Cybersecurity & MLOps Specialist
+### Fractional CTO · KubeStronaut · Cloud Architect · Cybersecurity · MLOps · Agentic AI
 
 *Based in the Kumaon Himalayas · Working with global teams across US · Europe · Asia · Africa*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutoshkandpal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshkandpal)
-[![Email](https://img.shields.io/badge/Email-ashutoshkandpal89%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashutoshkandpal89@hotmail.com)
+[![Website](https://img.shields.io/badge/Website-ashutoshkandpal.com-0f3460?style=flat-square&logo=google-chrome&logoColor=white)](https://ashutoshkandpal.com)
+[![Email](https://img.shields.io/badge/Email-ashutosh%40ashutoshkandpal.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashutosh@ashutoshkandpal.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ashutoshkandpal89-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashutoshkandpal89)
 
 </div>
@@ -24,7 +25,9 @@
 
 I help **AI startups and SaaS companies** build and scale cloud-native infrastructure — without the cost of a full-time CTO.
 
-I design and implement **production-grade platforms** that are scalable, secure, and built for real-world usage — not just demos. My work spans Kubernetes, MLOps, DevSecOps, multi-cloud architecture, and fractional CTO engagements with teams across four continents.
+I design and implement **production-grade platforms** that are scalable, secure, and built for real-world usage — not just demos. My work spans Kubernetes, MLOps, Agentic AI systems, DevSecOps, multi-cloud architecture, and fractional CTO engagements with teams across four continents.
+
+I have helped teams reduce infrastructure costs by **60%**, achieve **99.9% uptime SLAs**, and ship AI systems that actually run in production — not just demos.
 
 Before going deep into cloud infrastructure, I organized treks to remote Himalayan villages, co-founded an AgriTech startup, and collaborated with NGOs across India. That journey gave me something no certification can teach — **the ability to stay grounded and creative when complexity peaks.**
 
@@ -36,6 +39,7 @@ Before going deep into cloud infrastructure, I organized treks to remote Himalay
 |--------|---------------|
 | ☸️ **Kubernetes Architecture** | Platform design, multi-cluster scaling, KubeStronaut-grade implementations |
 | 🤖 **MLOps** | Deploying and serving AI models reliably in production environments |
+| 🤖 **Agentic AI Systems** | Governed, cost-efficient AI agent platforms on Kubernetes — token budgets, policy enforcement, OTel |
 | 🔐 **DevSecOps & Cybersecurity** | Security integrated into CI/CD from day one — not bolted on later |
 | ☁️ **Multi-Cloud** | Azure · AWS · Oracle Cloud — architecture, migration, cost optimisation |
 | 🏛️ **Legacy Modernisation** | Cloud-native transformation of enterprise systems |
@@ -88,6 +92,7 @@ I train engineering teams and consult on Kubernetes adoption — from fundamenta
 | **Production Kubernetes** | Platform & SRE teams | Multi-cluster, autoscaling, GitOps, observability |
 | **Kubernetes Security (CKS)** | Security-conscious engineering teams | Hardening, RBAC, policy, runtime security |
 | **MLOps on Kubernetes** | AI/ML teams | Model serving, Kubeflow, GPU workloads, scaling |
+| **🤖 Agentic AI on Kubernetes** | Platform & AI engineers | Governed, cost-efficient AI agent systems — KEDA, Kyverno, OTel |
 
 **Consulting engagements:**
 - Kubernetes platform design and architecture reviews
@@ -140,6 +145,7 @@ I train engineering teams and consult on Kubernetes adoption — from fundamenta
 
 ## 🌍 Community & Beyond
 
+- **🎤 Speaker — CNCF Meetup** · "Agentic AI Without Chaos" — Governed AI systems on Kubernetes
 - **Lead — CNCG Dehradun** · Growing the cloud-native community in the Uttarakhand region
 - **Co-founder — AgriTech Initiative** · Data-driven tools supporting farmers with precision agriculture
 - **Himalayan Expedition Leader** · Remote high-altitude treks shaping calm, high-stakes decision-making
@@ -156,6 +162,7 @@ I design and deliver **high-impact corporate workshops** focused on AI-assisted 
 * ☕ **AI-Assisted Java Development** — Production-grade coding with Copilot
 * 🔐 **Secure AI Development (AZ-2007 aligned)** — DevSecOps + compliance
 * ☸️ **Kubernetes & Platform Engineering** — From fundamentals to production
+* 🤖 **Agentic AI on Kubernetes** — KEDA autoscaling, Kyverno governance, token budgets, OTel observability
 
 💬 *Trusted by teams building real-world systems — not just demos.*
 
@@ -171,9 +178,28 @@ I design and deliver **high-impact corporate workshops** focused on AI-assisted 
 | [🔐 Secure-AI-Assisted-Development-C-Training-Kit](https://github.com/ashutoshkandpal89/Secure-AI-Assisted-Development-C-Training-Kit) | AZ-2007 aligned secure AI development training — governance, DevSecOps, compliance-first architecture                              |
 | [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo)                                             | Hands-on Python scenarios for enterprise Copilot adoption — debugging, testing, refactoring                                        |
 | [🌀 microservice-scenarios](https://github.com/ashutoshkandpal89/microservice-scenarios)                                               | Chaos engineering scenarios for Kubernetes — resilience, autoscaling, observability validation                                     |
+| [🤖 agentic-ai-k8s-demo](https://github.com/ashutoshkandpal89/agentic-ai-k8s-demo) | Production-grade Agentic AI on Kubernetes — KEDA autoscaling, Kyverno governance, token budgets, OTel observability. CNCF Meetup talk demo |
+| [🧠 mlops-zero-to-hero](https://github.com/ashutoshkandpal89/mlops-zero-to-hero) | MLOps from zero to production — model serving, Kubeflow, GPU workloads, Kubernetes-native pipelines |
 | More coming soon...                                                                                                                    | Kubernetes blueprints · MLOps templates · DevSecOps frameworks                                                                     |
 
 ---
+
+## 🎯 Fractional CTO Engagements
+
+I work as an embedded senior technical leader for AI startups and SaaS companies that need CTO-level thinking without full-time overhead.
+
+**What I bring:**
+- Architecture decisions that scale to Series B and beyond
+- Technical hiring — defining roles, interviewing engineers, building teams
+- Engineering strategy aligned to business goals
+- Hands-on execution alongside your team — not just slide decks
+
+**Ideal for:** Seed to Series A startups · SaaS companies scaling infrastructure · Enterprises modernising legacy platforms
+
+*Currently open to 1-2 new engagements.*
+
+---
+
 
 ## 💭 Philosophy
 
@@ -188,11 +214,13 @@ I design and deliver **high-impact corporate workshops** focused on AI-assisted 
 ### 🔷 Let's Connect
 
 *If you're building AI systems, scaling SaaS infrastructure, or need senior technical guidance without a full-time hire — reach out.*
+[![Website](https://img.shields.io/badge/Website-ashutoshkandpal.com-0f3460?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashutoshkandpal.com)
+[![Email](https://img.shields.io/badge/Email-ashutosh%40ashutoshkandpal.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh@ashutoshkandpal.com)
 
 **I respond to every serious inquiry.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshkandpal)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshkandpal89@hotmail.com)
+*Looking for a Fractional CTO to lead your infrastructure?*
+*Currently open to 1-2 new engagements — [let's talk](https://ashutoshkandpal.com)*
 
 *He/Him · Open to: Fractional CTO · K8s Consulting · Corporate Training · MLOps Engagements*
 
