@@ -8,7 +8,7 @@
 
 # Ashutosh Kandpal
 
-### Fractional CTO · KubeStronaut · Cloud Architect · Cybersecurity · MLOps · Agentic AI
+### Fractional CTO · KubeStronaut · Cloud Architect · Cybersecurity · MLOps · Agentic AI . Azure AI Foundry . AI Architect
 
 *Based in the Kumaon Himalayas · Working with global teams across US · Europe · Asia · Africa*
 
@@ -40,6 +40,8 @@ Before going deep into cloud infrastructure, I organized treks to remote Himalay
 | ☸️ **Kubernetes Architecture** | Platform design, multi-cluster scaling, KubeStronaut-grade implementations |
 | 🤖 **MLOps** | Deploying and serving AI models reliably in production environments |
 | 🤖 **Agentic AI Systems** | Governed, cost-efficient AI agent platforms on Kubernetes — token budgets, policy enforcement, OTel |
+| 🤖 **Azure AI Foundry**   | Enterprise AI Agents, Azure AI Foundry Agent Service, Model Catalog |
+| 🤖 **Microsoft Agent Framework** | Single-agent & Multi-agent applications, orchestration, memory, MCP |
 | 🔐 **DevSecOps & Cybersecurity** | Security integrated into CI/CD from day one — not bolted on later |
 | ☁️ **Multi-Cloud** | Azure · AWS · Oracle Cloud — architecture, migration, cost optimisation |
 | 🏛️ **Legacy Modernisation** | Cloud-native transformation of enterprise systems |
@@ -172,17 +174,61 @@ I design and deliver **high-impact corporate workshops** focused on AI-assisted 
 
 > 💡 Real-world, production-grade repositories used in corporate trainings and enterprise consulting engagements.
 
-| Repo                                                                                                                                   | Description                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [🚀 copilot-java-training-kit](https://github.com/ashutoshkandpal89/copilot-java-training-kit)                                         | Enterprise-grade Java + GitHub Copilot training kit — prompt engineering, agent workflows, legacy modernization, DevOps & security |
-| [🔐 Secure-AI-Assisted-Development-C-Training-Kit](https://github.com/ashutoshkandpal89/Secure-AI-Assisted-Development-C-Training-Kit) | AZ-2007 aligned secure AI development training — governance, DevSecOps, compliance-first architecture                              |
-| [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo)                                             | Hands-on Python scenarios for enterprise Copilot adoption — debugging, testing, refactoring                                        |
-| [🌀 microservice-scenarios](https://github.com/ashutoshkandpal89/microservice-scenarios)                                               | Chaos engineering scenarios for Kubernetes — resilience, autoscaling, observability validation                                     |
-| [🤖 agentic-ai-k8s-demo](https://github.com/ashutoshkandpal89/agentic-ai-k8s-demo) | Production-grade Agentic AI on Kubernetes — KEDA autoscaling, Kyverno governance, token budgets, OTel observability. CNCF Meetup talk demo |
-| [🧠 mlops-zero-to-hero](https://github.com/ashutoshkandpal89/mlops-zero-to-hero) | MLOps from zero to production — model serving, Kubeflow, GPU workloads, Kubernetes-native pipelines |
-| More coming soon...                                                                                                                    | Kubernetes blueprints · MLOps templates · DevSecOps frameworks                                                                     |
+## 🚀 Featured Projects
+
+### 🎓 AI Pilot to Production Series
+
+A complete hands-on learning path for building **production-ready AI agents** using **Azure AI Foundry** and the **Microsoft Agent Framework**.
+
+| Repository | Description |
+|------------|-------------|
+| [🚀 AI-pilot-to-production-day01](https://github.com/ashutoshkandpal89/AI-pilot-to-production-day01) | Azure AI Foundry fundamentals, Microsoft Agent Framework, orchestration patterns, and Magentic-One concepts |
+| [🧠 AI-pilot-to-production-day02](https://github.com/ashutoshkandpal89/AI-pilot-to-production-day02) | Enterprise grounding, memory, MCP, tool calling, Azure AI Foundry Agent Service, and multi-agent development |
+| [🛡️ AI-pilot-to-production-day03](https://github.com/ashutoshkandpal89/AI-pilot-to-production-day03) | Enterprise governance, identity, security, observability, evaluation, scaling, and production deployment |
 
 ---
+
+### ☸️ Cloud Native & AI Engineering
+
+| Repository | Description |
+|------------|-------------|
+| [🧠 mlops-zero-to-hero](https://github.com/ashutoshkandpal89/mlops-zero-to-hero) | End-to-end MLOps using Kubernetes, Kubeflow, model serving, CI/CD, and production deployment |
+| [🤖 agentic-ai-k8s-demo](https://github.com/ashutoshkandpal89/agentic-ai-k8s-demo) | Production-ready Agentic AI on Kubernetes with KEDA, Kyverno, OpenTelemetry, and governance |
+| [🌀 microservice-scenarios](https://github.com/ashutoshkandpal89/microservice-scenarios) | Kubernetes resilience, autoscaling, observability, and chaos engineering scenarios |
+
+---
+
+### 🤖 AI-Assisted Development
+
+| Repository | Description |
+|------------|-------------|
+| [🚀 copilot-java-training-kit](https://github.com/ashutoshkandpal89/copilot-java-training-kit)  | Enterprise Java development with GitHub Copilot, prompt engineering, modernization, and DevSecOps |
+| [🤖 copilot-enterprise-demo](https://github.com/ashutoshkandpal89/copilot-enterprise-demo) | Hands-on enterprise GitHub Copilot scenarios for debugging, testing, refactoring, and developer productivity |
+| [🔐 Secure-AI-Assisted-Development-C-Training-Kit](https://github.com/ashutoshkandpal89/Secure-AI-Assisted-Development-C-Training-Kit) | Secure AI-assisted software development aligned with Microsoft AZ-2007 guidance |
+---
+
+## 🎓 Flagship Workshop
+
+### AI Pilot to Production
+
+A comprehensive enterprise workshop covering:
+
+- Azure AI Foundry
+- Microsoft Agent Framework
+- Multi-Agent Systems
+- Enterprise Memory
+- MCP
+- Grounding
+- Governance
+- Production Deployment
+
+➡️ Explore the workshop series:
+- Day 1
+- Day 2
+- Day 3
+
+----
+
 
 ## 🎯 Fractional CTO Engagements
 
@@ -196,7 +242,16 @@ I work as an embedded senior technical leader for AI startups and SaaS companies
 
 **Ideal for:** Seed to Series A startups · SaaS companies scaling infrastructure · Enterprises modernising legacy platforms
 
-*Currently open to 1-2 new engagements.*
+----
+
+## 🤝 Available For
+
+- 🚀 Fractional CTO Engagements
+- 🤖 Azure AI Foundry Architecture & Implementation
+- 🧠 Microsoft Agent Framework & Agentic AI Solutions
+- ☸️ Kubernetes & Platform Engineering Consulting
+- 🎓 Enterprise Corporate Training
+- 🔐 DevSecOps & Cloud Security Advisory.
 
 ---
 
@@ -227,3 +282,7 @@ I work as an embedded senior technical leader for AI startups and SaaS companies
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
+![GitHub Stats](...)
+![Top Languages](...)
+![GitHub Streak](...)
