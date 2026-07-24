@@ -8,7 +8,7 @@
 
 # Ashutosh Kandpal
 
-### Fractional CTO · KubeStronaut · Cloud Architect · Cybersecurity · MLOps · Agentic AI . Azure AI Foundry . AI Architect
+### Fractional CTO · KubeStronaut · AI Platform Architect · Cloud Architect · Cybersecurity · MLOps
 
 *Based in the Kumaon Himalayas · Working with global teams across US · Europe · Asia · Africa*
 
@@ -251,7 +251,7 @@ I work as an embedded senior technical leader for AI startups and SaaS companies
 - 🧠 Microsoft Agent Framework & Agentic AI Solutions
 - ☸️ Kubernetes & Platform Engineering Consulting
 - 🎓 Enterprise Corporate Training
-- 🔐 DevSecOps & Cloud Security Advisory.
+- 🔐 DevSecOps & Cloud Security Advisory
 
 ---
 
@@ -272,10 +272,25 @@ I work as an embedded senior technical leader for AI startups and SaaS companies
 [![Website](https://img.shields.io/badge/Website-ashutoshkandpal.com-0f3460?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashutoshkandpal.com)
 [![Email](https://img.shields.io/badge/Email-ashutosh%40ashutoshkandpal.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh@ashutoshkandpal.com)
 
+---
+
+
 **I respond to every serious inquiry.**
 
 *Looking for a Fractional CTO to lead your infrastructure?*
 *Currently open to 1-2 new engagements — [let's talk](https://ashutoshkandpal.com)*
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshkandpal89&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkandpal89&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashutoshkandpal89&theme=github-dark&hide_border=true"/>
+</p>
+
 
 *He/Him · Open to: Fractional CTO · K8s Consulting · Corporate Training · MLOps Engagements*
 
@@ -283,6 +298,3 @@ I work as an embedded senior technical leader for AI startups and SaaS companies
 
 </div>
 
-![GitHub Stats](...)
-![Top Languages](...)
-![GitHub Streak](...)
